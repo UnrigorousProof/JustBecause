@@ -1,4 +1,4 @@
-# Title
+# Blue States had tremendous deaths
 
 President Trump made a particular statement about Covid19 death rates that I saw people comment on saying it was obviously incorrect but I found no one that did any work determine it was in fact erroneous.
 
@@ -40,7 +40,9 @@ Their combined result of Covid deaths has them contributing slightly more to the
 
 
 ## Result
-Then I combined the population and covid deaths remaining states and territories (American Samoa, Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, Washington, D.C.)
+I combined the population and covid deaths remaining states and territories (American Samoa, Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, Washington, D.C.)
+
+![](CovidChart.png)
 
 The result was a popultaion of 187,727,066 with Covid19 deaths numbering 89199.  Which puts the US without Blue States at 47.52 deaths per 100,000. 
 This is a lower death rate than the US as a whole, but it moves the US from 158th out of 168 countries with data at Johns Hopkins to 153rd out of 168 countries.
