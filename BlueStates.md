@@ -6,11 +6,9 @@ The statement : **"The blue states had tremendous death rates, if you take the b
 
 ## Data
 
-Original Chart and Data for the List from Johns Hopkins University (link #1)
-The US without Blue States point based on:
-
-1. The New York Times summary of cases and deaths (link #2) 
-2. The Wikipedia entry on states and territories for population(link 3 which gets it's numbers from link 4) 
+1. Original Chart and Data for the List from Johns Hopkins University (link #1)
+1. Cases and deaths state by states from The New York Times summary (link #2) 
+2. The Wikipedia entry on states and territories for population (link 3 which gets it's numbers from link 4) 
 3. An analysis/determination of what counts as "blue state" based on MIT's election lab historical voting dataset (link 5)
 
 ## What is a blue state
