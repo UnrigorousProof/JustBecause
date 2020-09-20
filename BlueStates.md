@@ -11,7 +11,7 @@ The US without Blue States point based on:
 
 1. The New York Times summary of cases and deaths (link #2) 
 2. The Wikipedia entry on states and territories for population(link 3 which gets it's numbers from link 4) 
-3. An analysis/determination of what counts as "blue state"
+3. An analysis/determination of what counts as "blue state" based on MIT's election lab historical voting dataset (link 5)
 
 ## What is a blue state
 
