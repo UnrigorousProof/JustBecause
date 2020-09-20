@@ -47,7 +47,7 @@ I combined the population and covid deaths remaining states and territories (Ame
 The result was a popultaion of 187,727,066 with Covid19 deaths numbering 89199.  Which puts the US without Blue States at 47.52 deaths per 100,000. 
 This is a lower death rate than the US as a whole, but it moves the US from 158th out of 168 countries with data at Johns Hopkins to 153rd out of 168 countries.
 
-The claim "if you take the blue states out we're at a level that I don't think anybody in the world would be at" is egregiously false.
+The claim **"if you take the blue states out we're at a level that I don't think anybody in the world would be at"** is egregiously false a more apt statement would be: if you take the blue states out, we look slightly better compared to other nations that had major outbreaks and loss of life.
 
 
 
